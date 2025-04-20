@@ -43,16 +43,16 @@ A Java-based application designed to manage shopping carts, allowing for creatio
 The application exposes the following RESTful endpoints:
 
 * Create a new cart\
-`POST /`
+`POST /api/v1/carts`
 
 * Retrieve a cart by ID\
-`GET /{cartId}`
+`GET /api/v1/carts/{cartId}`
 
 * Add products to a cart\
-`PUT /{cartId}/products`
+`PUT /api/v1/carts/{cartId}/products`
 
 * Delete a cart by ID\
-`DELETE /{cartId}`
+`DELETE /api/v1/carts/{cartId}`
 
 You can find all the api documentation:
 
