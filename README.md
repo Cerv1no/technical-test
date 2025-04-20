@@ -37,7 +37,20 @@ A Java-based application designed to manage shopping carts, allowing for creatio
   docker compose up -d
   ```
 
-## API Endpoints
+## 📡 API Endpoints
+The application exposes the following RESTful endpoints:
+
+* Create a new cart\
+`POST /`
+
+* Retrieve a cart by ID\
+`GET /{cartId}`
+
+* Add products to a cart\
+`PUT /{cartId}/products`
+
+* Delete a cart by ID\
+`DELETE /{cartId}`
 
 You can find all the api documentation:
 
