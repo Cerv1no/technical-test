@@ -2,7 +2,7 @@
 
 A Java-based application designed to manage shopping carts, allowing for creation, retrieval, product addition, and deletion of carts.
 
-## ✨ Features
+### ✨ Features
 
 - **Create Cart**: Initialize a new shopping cart.
 - **Retrieve Cart**: Fetch details of an existing cart by its ID.
@@ -36,3 +36,5 @@ A Java-based application designed to manage shopping carts, allowing for creatio
   ```bash
   docker compose up -d
   ```
+
+
