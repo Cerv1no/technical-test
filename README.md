@@ -6,7 +6,7 @@ A Java-based application designed to manage shopping carts, allowing for creatio
 
 - CRUD management of shopping carts
 - Delete inactive carts (10 minutes)
-- Custom rror handling
+- Custom error handling
 - Input data validation
 - API documentation with Swagger
 - Unit tests
