@@ -2,7 +2,7 @@
 
 A Java-based application designed to manage shopping carts, allowing for creation, retrieval, product addition, and deletion of carts.
 
-### ✨ Features
+## ✨ Features
 
 - **Create Cart**: Initialize a new shopping cart.
 - **Retrieve Cart**: Fetch details of an existing cart by its ID.
@@ -37,4 +37,14 @@ A Java-based application designed to manage shopping carts, allowing for creatio
   docker compose up -d
   ```
 
+## API Endpoints
+
+You can find all the api documentation:
+
+http://localhost:8080/swagger-ui/index.html
+
+## 🧪 Test the app
+
+For detailed request and response structures, import the Postman collection:
+technical test.postman_collection.json
 
