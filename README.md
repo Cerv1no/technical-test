@@ -45,6 +45,6 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 🧪 Test the app
 
-For detailed request and response structures, import the Postman collection:
+For detailed request and response structures, import the Postman collection:\
 technical test.postman_collection.json
 
