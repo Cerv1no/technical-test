@@ -4,10 +4,12 @@ A Java-based application designed to manage shopping carts, allowing for creatio
 
 ## ✨ Features
 
-- **Create Cart**: Initialize a new shopping cart.
-- **Retrieve Cart**: Fetch details of an existing cart by its ID.
-- **Add Products**: Add a list of products to a specific cart.
-- **Delete Cart**: Remove a cart using its ID.
+- CRUD management of shopping carts
+- Delete inactive carts (10 minutes)
+- Custom rror handling
+- Input data validation
+- API documentation with Swagger
+- Unit tests
 
 ## 🧰 Technologies Used
 
